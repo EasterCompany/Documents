@@ -4,13 +4,17 @@ html , css and javascript , JSX , react
 ## Back end 
 Python (Flask / eLang)
 ## Infrastructure
-We own and host two servers:<br/>
+We own and host two servers:
+<br/>
+<br/>
 Economy Linux Hosting (EU Secure Server)
 * distributes internal applications
 * only allows access to easter.company
 * hosts email server
 * hosts shared web drive
 * hosts integration, beta & test apps
+<br/>
+<br/>
 Pythonanywhere Service (NA Live Server)
 * hosts live applications
 * distributes public information
