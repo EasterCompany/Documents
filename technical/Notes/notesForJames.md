@@ -30,7 +30,7 @@ Economy Linux Hosting (EU Secure Server)
 * hosts shared web drive
 * hosts integration, beta & test apps
 
-# Repositories (Where is the code?)
+# The Repositories
 Here on Github (Github.com/eastercompany) we have one master & two main repositories.
 The master repo 
 
