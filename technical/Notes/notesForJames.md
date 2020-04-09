@@ -31,14 +31,15 @@ Economy Linux Hosting (EU Secure Server)
 * hosts integration, beta & test apps
 
 # Repositories (Where is the code?)
-Here on Github (Github.com/eastercompany)
-## What repos do we own?
+Here on Github (Github.com/eastercompany) we have one master & two main repositories.
+The master repo 
+
 * Easter Company 
-   (Master Repo that contains all other repos within )
+   (master Repo)
 * Documents 
-   (Contains all publically available documents and is maintained by James [jmitchell23])
+   (maintained by James [jmitchell23])
 * Website
-   (Repo-Slave containing two or more repos within)
+   (slave Repo)
 
 ###### Created by James Mitchell 07/04/2020
 ###### Updated by Owen Easter 09/04/2020
