@@ -1,11 +1,27 @@
-# Tech Stack
-## Front end
-html , css and javascript , JSX , react 
-## Back end 
-Python (Flask / eLang)
+# Easter Company - Tech Stack Documentation
+<br/>
+## Front End Applications
+Languages:
+ * HTML
+ * CSS
+ * Javascript
+Frameworks:
+ * React
+ * eDocs
+## Back End API's & Services
+Languages:
+ * Python
+Frameworks:
+ * Flask
+ * eDocs
 ## Infrastructure
 We own and host two servers:
 <br/>
+<br/>
+Pythonanywhere Service (NA Live Server)
+* hosts live applications
+* distributes public information
+* all public users are allowed access
 <br/>
 Economy Linux Hosting (EU Secure Server)
 * distributes internal applications
@@ -14,11 +30,6 @@ Economy Linux Hosting (EU Secure Server)
 * hosts shared web drive
 * hosts integration, beta & test apps
 <br/>
-<br/>
-Pythonanywhere Service (NA Live Server)
-* hosts live applications
-* distributes public information
-* all public users are allowed access
 # Repositories (Where is the code?)
 Here on Github (Github.com/eastercompany)
 ## What repos do we own?
