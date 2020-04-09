@@ -2,18 +2,18 @@
 <br/>
 ## Front End Applications
 Languages:
- * HTML
- * CSS
- * Javascript
+* HTML
+* CSS
+* Javascript
 Frameworks:
- * React
- * eDocs
+* React
+* eDocs
 ## Back End API's & Services
 Languages:
- * Python
+* Python
 Frameworks:
- * Flask
- * eDocs
+* Flask
+* eDocs
 ## Infrastructure
 We own and host two servers:
 <br/>
